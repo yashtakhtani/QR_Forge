@@ -177,11 +177,12 @@ qr-forge/
 
 ---
 
-📄 License
-MIT License – feel free to use and modify.
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
 ---
+
+## 📄 License
+
+MIT License - Feel free to use & modify.
